@@ -1,0 +1,16 @@
+export HIBP_KEY=""
+export SHODAN_KEY=""
+export SECURITYTRAILS_KEY=""
+export VIRUSTOTAL_KEY=""
+export NUMVERIFY_KEY=""
+export IPINFO_TOKEN=""
+export GITHUB_TOKEN=""
+export TIMEOUT=10
+export RETRIES=2
+export PARALLEL=5
+export CACHE_TTL=86400
+export USER_AGENT="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36"
+export PROBIV_HOME="$HOME/probiv2"
+export OUT_DIR="$PROBIV_HOME/out"
+export CACHE_DIR="$PROBIV_HOME/cache"
+export DB="$PROBIV_HOME/history.db"
